@@ -10,4 +10,8 @@ Git та Linux CLI
 Жарук Данил, Холудієв Денис, група АІ-235
 
 ## Як запустити
-Запустити скрипт: `python main.py`
+## Запустити скрипт python main.py
+```bash
+pip install pulp matplotlib
+python main.py
+```
