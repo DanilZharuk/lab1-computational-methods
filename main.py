@@ -3,7 +3,7 @@
 
 #!pip install pulp matplotlib 
 
-import os
+import os 
 import random
 from pulp import LpProblem, LpVariable, LpMinimize, LpInteger, value
 import matplotlib
