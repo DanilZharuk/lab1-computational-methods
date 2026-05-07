@@ -22,6 +22,6 @@ Git та Linux CLI
 ## Як запустити
 ## Запустити скрипт python main.py
 ```bash
-pip install pulp matplotlib
+pip install pulp matplotlib 
 python main.py
 ```
