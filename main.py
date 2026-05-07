@@ -1,7 +1,7 @@
 # Модель: Математичне моделювання оптимального розкрою рулонної тканини для виробництва футболок
 # Автор: Жарук Данил, Холудієв Денис, група АІ-235
 
-#!pip install pulp matplotlib
+#!pip install pulp matplotlib 
 
 import os
 import random
