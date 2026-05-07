@@ -2,4 +2,4 @@ flask
 pulp
 matplotlib
 pytest
-flake8
+flake8 
