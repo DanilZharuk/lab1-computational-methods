@@ -1,6 +1,6 @@
 # Тести для API оптимального розкрою тканини
 import pytest
-from api import app
+from api import app 
 
 
 @pytest.fixture
