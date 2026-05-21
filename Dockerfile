@@ -3,6 +3,6 @@
 
 FROM python:3.10-slim
 WORKDIR /app
-COPY main.py .
-RUN pip install pulp matplotlib
-CMD ["python", "main.py"]
+COPY . .
+RUN pip install -r requirements.txt
+CMD ["python", "api.py"]
